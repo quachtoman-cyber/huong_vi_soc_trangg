@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+*.log
+
+# Các file chứa thông tin tài khoản/mật khẩu cá nhân
+TAI_KHOAN_6_THANH_VIEN.txt
+THONG_TIN_TAI_KHOAN.txt
+
+# Không đưa file hệ thống lên GitHub
+.DS_Store
+Thumbs.db

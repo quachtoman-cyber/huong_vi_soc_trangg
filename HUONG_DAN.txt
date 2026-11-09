@@ -1,0 +1,23 @@
+HUONG DAN - WEBSITE HUONG VI SOC TRANG CO 6 TAI KHOAN
+
+1. Giai nen toan bo thu muc nay vao may tinh.
+2. Cai Python 3 neu may chua co: https://www.python.org/downloads/
+   Khi cai dat, chon "Add Python to PATH".
+3. Bam dup BAT_DAU_WEBSITE.bat.
+4. Lan dau chay, chuong trinh tao co so du lieu website_data.sqlite3 va tep
+   THONG_TIN_TAI_KHOAN.txt chua 6 tai khoan/mat khau tam.
+5. Mo trinh duyet va vao http://127.0.0.1:8000
+6. Bam "Dang nhap thanh vien" de dang nhap. Moi thanh vien doi mat khau
+   ngay sau khi dang nhap bang nut "Doi mat khau".
+7. Tat ca 6 tai khoan deu co the dang, sua va xoa bai viet.
+8. Bai viet duoc luu trong website_data.sqlite3, khong mat khi tat may.
+9. De sao luu du lieu, dong cua so BAT roi copy tep website_data.sqlite3.
+
+LUU Y BAO MAT
+- Day la ban chay noi bo tren may tinh; khong phai he thong hosting Internet.
+- Khong chia se tep THONG_TIN_TAI_KHOAN.txt cong khai. Sau khi tung thanh vien
+  doi mat khau, co the xoa tep nay.
+- Khong mo cong truy cap Internet/port forwarding cho may chu nay.
+- Cac tai khoan la 6 thanh vien mac dinh: thanhvien01 den thanhvien06.
+- Neu xoa website_data.sqlite3, lan chay tiep theo se tao lai tai khoan ban dau
+  va mat khau moi; cac bai viet cu trong database se mat.
